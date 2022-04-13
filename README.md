@@ -8,10 +8,8 @@
 * [Technologies and Tools](#technologies-and-tools)
 * [Setup](#setup)
 * [Process](#process)
-* [Code Examples](#code-examples)
 * [Features](#features)
-* [Status](#status)
-* [Contact](#contact)
+
 
 ## General info
 
