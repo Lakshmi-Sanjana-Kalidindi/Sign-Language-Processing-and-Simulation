@@ -8,7 +8,6 @@
 
 # Sign Language Interpreter using Deep Learning
 > A sign language interpreter using live video feed from the camera. 
-The project was completed in 24 hours as part of HackUNT-19, the University of North Texas's annual Hackathon. 
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
